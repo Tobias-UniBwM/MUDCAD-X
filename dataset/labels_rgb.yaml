@@ -1,0 +1,12 @@
+categories:
+  fleece: [22, 13, 54]
+  hedge: [107, 155, 110]
+  net2dgreen: [48, 92, 56]
+  net3dgray: [100, 97, 110]
+  net3dgreen: [80, 144, 102]
+  net3dyellow: [255, 204, 51]
+  persongreen: [136, 168, 93]
+  personyellow: [204, 153, 51]
+  tarpgray: [203, 201, 212]
+  tarpgreen: [7, 105, 15]
+  turf: [117, 180, 92]
